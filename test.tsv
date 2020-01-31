@@ -1,0 +1,228 @@
+0	Error proceso wf_Informe_Msisdn_Activos
+1	Error proceso wf_MM_V010_Ventas_Seguimiento_Negocios_SVA
+2	RV: QoE Error: desp_actualizar_daily_cell_traffic.py-ERROR process finished abnormally
+3	[PWC][Retraso][Informe] V003_Ventas_Seguimiento_venta_detalle
+4	Error proceso wf_Q25_Campaign_res_int
+5	RV: Refresh failed: OP_Cobertura_Azure has failed to refresh
+6	RV: (*****) Carga WO No procesado
+7	[PWC] Workflow parado: wholesale.wf_DM_roaming
+8	[PWC] Workflow parado: others.wf_CDRS_Cells_Traffic_Voice
+9	[PWC] Workflow parado: BIGDATA_emms.wf_BIGDATA_VOICE_DATA_AGG
+10	Error proceso wf_SEGUROS_TELEVENTA
+11	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+12	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+13	Error proceso wf_BIGDATA_ONLINE_DWH_TME_INT_M
+14	Error proceso wf_EMMS_ONLINE_TME_VOICE_SMS
+15	Error proceso wf_EMMS_MMS
+16	Error proceso wf_EMMS_ROAMING_OUT_and_IN
+17	Analizar y regularizar Lanzar Informe Byside Clientes Llamaya
+18	RV: Refresh failed: Fixed Network CEM has failed to refresh
+19	Error proceso wf_EMMS_Service_Fee_Prepaid_all_auto
+20	Error proceso wf_TERMINALFINAN_NEWADDS
+21	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_jira_cod_issue_types.
+22	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_wo_v_territory_owner.
+23	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_wo_wo_service_ftth.
+24	Error proceso wf_BIGDATA_FCTR_LLAMAYA
+25	Error proceso wf_ICX_Update_Translators
+26	No ha llegado el fichero MMI_VOSS_EVENTOS_FULL_20191125_1* del proceso BIGDATA_emms.wf_BIGDATA_FCTR_LLAMAYA
+27	Error proceso wf_Portability_NRN
+28	Revisar emms_cdrs.daily_call_details. Falta el día 15/11
+29	"Faltan días 18 y 19 en ""advanced_analytics.bi_cust_care_dm_cc_f_impact_calls_line"""
+30	RV: Fallo en insert de Impala de drl.gprs_dual 20191125_0523 para el dia 20191125 en yoigo_gprs-gprs_dual
+31	RV: Fallo en insert de Impala de drl.gprs_dual 20191125_0420 para el dia 20191125 en yoigo_gprs-gprs_dual
+32	RV: Fallo en insert de Impala de drl.gprs_dual 20191124_2112 para el dia 20191124 en yoigo_gprs-gprs_dual
+33	RV: Fallo en insert de Impala de emms_cdrs.roaming_out_total 20191124_1415 para el dia 20191115
+34	Analizar y regularizar Lanzar Importar JIRA
+35	Error proceso wf_BIGDATA_ONLINE_DWH_TME_INT_M
+36	CLONE - Analizar y regularizar Lanzar Importar SAP
+37	RV: (*****) Ficheros LISTA ROBINSON No procesados
+38	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_orders_hist.
+39	Alerta Pendiente wf_Portability_NRN
+40	Error proceso wf_Portability_NRN
+41	Solicitud reproceso interfaces para carga de información en IFS. Creación ordenes Router y Eventos Router , incidence_change_date: 23 de Noviembre
+42	[PWC][Retraso][Informe] V003_Activaciones_Seguimiento_detalle
+43	RE: Actualización fichero FTP: file://///10.100.6.104/Marketing/
+44	Alerta Pendiente wf_Portability_morning
+45	No se envía informe de Marcas Blancas (MB01_Ventas_Seguimiento_Marcas_Blancas). Ver #ADV-81359
+46	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_kpi_kpis_pv_agentes.
+47	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_kpi_kpis_pv_msisdn.
+48	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_kpi_kpis_pv_msisdn_bajas_recicladas.
+49	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_care_dm_cc_f_multichan_line.
+50	RV: QoE Error: traffic_per_cell.py-ERROR process finished abnormally
+51	[PWC][Retraso][Informe] V003_Ventas_Seguimiento_v2_N12
+52	[PWC][Retraso][Informe] V010_Ventas_Seguimiento_Negocios_SVA_Ultimos3dias
+53	[PWC][Retraso][Informe] V003_Ventas_Seguimiento_v2_N2_N3
+54	RV: (*****) Carga Informe_SETSIAD_Averias_Diario Dependencias
+55	[PWC][Retraso][Informe] V003_Ventas_Seguimiento_venta_detalle
+56	[PWC][Retraso][Informe] V010_Ventas_Seguimiento_Negocios_SVA
+57	Revisión retraso V003
+58	RV: (*****) Carga Informe_SETSIAD_Averias_Diario Dependencias
+59	RV: (*****) Ficheros CC No procesados [SQLPBI]
+60	[PWC][Retraso][Informe] V003_Ventas_Seguimiento_v3
+61	Error proceso wf_tipificaciones_HEOS
+62	RV: (*****) Datos de portanet con OT Dependencias
+63	[PWC] Workflow parado: process._wf_Lanzadera_Clonados_Bigdata_Fraude
+64	[PWC] Workflow parado: process._wf_Lanzadera_Clonados_BIGDATA
+65	[PWC] Workflow parado: others.wf_MM_ACTIVE_SUBSCRIPTIONS
+66	[PWC] Workflow parado: interface_informes_mapeo.wf_MM_V004_Ventas_Seguimiento
+67	[PWC] Workflow parado: interface_informes_mapeo.wf_MM_V003_Ventas_Seguimiento_v3
+68	[PWC] Workflow parado: interface_informes_mapeo.wf_MM_V003_Ventas_Seguimiento_venta_detalle
+69	Error proceso wf_CDRS_Tac_Codes
+70	[PWC] Workflow parado: interface_informes_mapeo.wf_MM_V003_Activaciones_Seguimiento_detalle
+71	[PWC] Workflow parado: interface_informes_mapeo.wf_MM_Clientes_impago_Negocios
+72	[PWC] Workflow parado: interface_informes_mapeo.wf_Extract_MasMovil_Cli
+73	[PWC] Workflow parado: interface.wf_IFZ_INTERBOX_APPLE_EU
+74	[PWC] Workflow parado: interface.wf_IFZ_DIRECT_CHANNEL_ROUTER_INTERBOX
+75	[PWC] Workflow parado: BIGDATA_emms.wf_STG_CP_MASMOVIL
+76	[PWC] Workflow parado: BIGDATA_emms.wf_STG_CP_LLAMAYA
+77	[PWC] Workflow parado: BIGDATA_emms.wf_MM_SUBSCRIPTIONS
+78	[PWC] Workflow parado: BIGDATA_emms.wf_CP_MULTIMARCA
+79	[PWC] Workflow parado: BI_Customer_Care.wf_MM_SUBSCRIPTIONS_DIM
+80	Error proceso wf_MM_MB01_Ventas_Seguimiento_Marcas_Blancas
+81	RV: QoE Error: top_cells.py-ERROR process finished abnormally
+82	RV: Refresh failed: CA_Activaciones_v2 has failed to refresh
+83	RV: (*****) Carga NRT COBERTURA_LOG No procesado
+84	RV: Refresh failed: PR_Provision_FTTH has failed to refresh
+85	RV: (*****) Carga NRT COBERTURA_LOG No procesado
+86	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+87	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+88	RV: Refresh failed: Mobile Network CEM has failed to refresh
+89	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+90	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+91	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+92	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+93	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+94	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+95	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+96	RV: Refresh failed: Fixed Network CEM has failed to refresh
+97	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+98	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+99	Error proceso wf_BIGDATA_FCTR_LLAMAYA
+100	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+101	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+102	Error proceso wf_BIGDATA_MULTIMARCA_OT_RADIUS
+103	Error proceso wf_Load_GMM_VOSS_EVENTOS_RAAS
+104	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+105	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+106	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+107	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+108	[PWC][Retraso][Informe] V003_Activaciones_Seguimiento_detalle
+109	Error proceso wf_Credit_Limit
+110	RV: (*****) ZZZZ_ADV-32112 PROMOCIONES APLICADAS No procesado
+111	RV: QoE Error: traffic_per_cell.py-ERROR process finished abnormally
+112	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+113	RV: (*****) Carga Informe_SETSIAD_Averias_Diario Dependencias
+114	RV: (*****) Carga Informe_SETSIAD_Averias_Diario Dependencias
+115	[PWC][Retraso][Informe] V003_Ventas_Seguimiento_venta_detalle
+116	Alarm file alarma_TMS just appeared on /srv/sftp/dwsftp/data/faudit
+117	RV: (*****) Carga Informe_SETSIAD_Averias_Diario Dependencias
+118	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+119	Error proceso wf_TMS_CC_Fusion_Message
+120	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+121	RV: (*****) Importar datos CC_MARKTEL_TRAZA No procesada
+122	No ha llegado el fichero *FusionMessage*20191124* del proceso tms.wf_TMS_CC_Fusion_Message
+123	[PWC][Retraso][Informe] V003_Ventas_Seguimiento_v3
+124	Error proceso wf_STC_CONTRACTS
+125	Error proceso wf_TMS_CC_Carga_Orders_Incremental_3
+126	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+127	Error proceso wf_CUSTOMER_DATA_HISTORY
+128	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/ficheros_cargas_dwh.sh"" has finished with return code 1 (NOTIF)."
+129	No ha llegado el fichero TME.INT.M.* del proceso BIGDATA_emms.wf_BIGDATA_ONLINE_DWH_TME_INT_M
+130	[PWC] Workflow parado: process._wf_Lanzadera_Clonados_BIGDATA
+131	[PWC] Workflow parado: others.wf_ROUTERS_BAJA
+132	[PWC] Workflow parado: others.wf_MM_ACTIVE_SUBSCRIPTIONS
+133	[PWC] Workflow parado: interface_informes_mapeo.wf_MM_V004_Ventas_Seguimiento
+134	[PWC] Workflow parado: interface_informes_mapeo.wf_MM_V003_Ventas_Seguimiento_v3
+135	[PWC] Workflow parado: interface_informes_mapeo.wf_MM_V003_Ventas_Seguimiento_venta_detalle
+136	[PWC] Workflow parado: interface_informes_mapeo.wf_MM_V003_Activaciones_Seguimiento_detalle
+137	[PWC] Workflow parado: interface_informes_mapeo.wf_MM_Clientes_impago_Negocios
+138	[PWC] Workflow parado: interface_informes_mapeo.wf_Extract_MasMovil_Cli
+139	[PWC] Workflow parado: BIGDATA_emms.wf_STG_CP_MASMOVIL
+140	[PWC] Workflow parado: BIGDATA_emms.wf_STG_CP_LLAMAYA
+141	[PWC] Workflow parado: BIGDATA_emms.wf_CP_MULTIMARCA
+142	[PWC] Workflow parado: BI_Customer_Care.wf_MM_SUBSCRIPTIONS_DIM
+143	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+144	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+145	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+146	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+147	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+148	Error proceso wf_MM_MB01_Ventas_Seguimiento_Marcas_Blancas
+149	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+150	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+151	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+152	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+153	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+154	Error proceso wf_Load_GMM_VOSS_EVENTOS_RAAS
+155	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+156	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+157	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+158	Error proceso wf_MM_LOGISTICA_BAJA
+159	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+160	[PWC][Retraso][Informe] V003_Activaciones_Seguimiento_detalle
+161	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+162	RV: QoE Error: traffic_per_cell.py-ERROR process finished abnormally
+163	RV: (*****) Extracción YOIGO No procesada [SQLPBI]
+164	RV: (*****) ZZZZ_ADV-32112 PROMOCIONES APLICADAS No procesado
+165	RV: (*****) Carga Informe_SETSIAD_Averias_Diario Dependencias
+166	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+167	[PWC][Retraso][Informe] V010_Ventas_Seguimiento_Negocios_SVA_Ultimos3dias
+168	RV: (*****) Carga Informe_SETSIAD_Averias_Diario Dependencias
+169	[PWC][Retraso][Informe] V003_Ventas_Seguimiento_venta_detalle
+170	RV: (*****) Carga Informe_SETSIAD_Averias_Diario Dependencias
+171	RV: (*****) Importar datos CC_MARKTEL_TRAZA No procesada
+172	[PWC][Retraso][Informe] V003_Ventas_Seguimiento_v3
+173	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+174	[PWC] Workflow parado: process._wf_Lanzadera_Informes_Planificados
+175	[PWC] Workflow parado: process._wf_Lanzadera_Clonados_BIGDATA
+176	[PWC] Workflow parado: others.wf_ROUTERS_BAJA
+177	[PWC] Workflow parado: interface_informes_mapeo.wf_MM_V003_Ventas_Seguimiento_venta_detalle
+178	[PWC] Workflow parado: interface_informes_mapeo.wf_MM_V003_Activaciones_Seguimiento_detalle
+179	[PWC] Workflow parado: interface.wf_correos_portabilidades
+180	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+181	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+182	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+183	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+184	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+185	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+186	RV: Refresh failed: PR_Provision_FTTH has failed to refresh
+187	Error proceso wf_Extract_MasMovil_Cli
+188	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+189	RV: (*****) Carga NRT COBERTURA_LOG No procesado
+190	Error proceso wf_EMMS_ORG_VOICE_SMS_all_auto
+191	RV: Refresh failed: Mobile Network CEM has failed to refresh
+192	RV: Refresh failed: Averias has failed to refresh
+193	Perfectivo Cargas criticas SQLSERVER
+194	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_orders_hist.
+195	Error proceso wf_MM_LOGISTICA_BAJA
+196	RV: Fallo en insert de Impala de drl.gprs_dual 20191121_2113 para el dia 20191121 en yoigo_gprs-gprs_dual
+197	RV: Fallo en insert de Impala de drl.gprs_dual 20191121_1204 para el dia 20191121 en yoigo_gprs-gprs_dual
+198	RV: Fallo en insert de Impala de emms_cdrs.roaming_out_total 20191120_0916 para el dia 20191112
+199	RV: Fallo en insert de Impala de drl.gprs_dual 20191120_0815 para el dia 20191120
+200	RV: Fallo en insert de Impala de emms_cdrs.roaming_out_total 20191120_0815 para el dia 20191115
+201	RV: Fallo en insert de Impala de emms_cdrs.roaming_out 20191120_0815 para el dia 20191116
+202	RV: (*****) Carga tabla Informe_Averias No procesado
+203	RV: (*****) Informe MantenimientoDeRed ERROR
+204	[PWC][Retraso][Informe] V003_Activaciones_Seguimiento_detalle
+205	RV: Fallo en insert de Impala de emms_cdrs.roaming_out 20191120_0815 para el dia 20191114
+206	RV: Fallo en insert de Impala de emms_cdrs.sms 20191120_0800 para el dia 20191114
+207	RV: Fallo en insert de Impala de emms_cdrs.voice 20191120_0805 para el dia 20191120
+208	RV: Fallo en insert de Impala de emms_cdrs.voice_icx 20191120_0810 para el dia 20191120
+209	RV: Fallo en insert de Impala de emms_cdrs.gprs_bill 20191120_0800 para el dia 20191120
+210	RV: (*****) AVISO MULTIHOST: Proceso con incidencias para la generación de informes antes de las 9:00h
+211	RV: Refresh failed: OP_MantenimientoDeRed.Ext.1 has failed to refresh
+212	RV: Refresh failed: OP_VentasBrutas has failed to refresh
+213	RV: Refresh failed: OP_Ventas has failed to refresh
+214	RV: (*****) Informe MantenimientoDeRed ERROR
+215	[PWC][Retraso][Informe] A001_ALTOS_CONSUMOS_POS_TRADICIONAL
+216	[PWC][Retraso][Informe] A002_ALTOS_CONSUMOS_ANTIGUOS_POS_TRADICIONAL
+217	[PWC][Retraso][Informe] V003_Ventas_Seguimiento_venta_detalle
+218	Error proceso wf_Q25_Campaign_res_int
+219	[PWC][Retraso][Informe] ALTOS_CONSUMOS_UNION
+220	[PWC][Retraso][Informe] A002_ALTOS_CONSUMOS_ANTIGUOS_POS_CONVERGENTE
+221	[PWC][Retraso][Informe] A006_LIMITE_CONSUMO
+222	RV: Refresh failed: OP_Gescal has failed to refresh
+223	[PWC][Retraso][Informe] A001_ALTOS_CONSUMOS_POS_CONVERGENTE
+224	RV: (*****) Informe MantenimientoDeRed ERROR
+225	RV: (*****) Fichero PROV159_A no generado
+226	Error proceso wf_CC_Orders_TVService
+227	RV: Refresh failed: OP_Cobertura_Azure has failed to refresh

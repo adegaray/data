@@ -1,0 +1,226 @@
+0	1	a	RV: Fallo en insert de Impala de emms_cdrs.roaming_out_total 20191120_0713 para el dia #7
+1	1	a	RV: Fallo en insert de Impala de emms_cdrs.roaming_out 20191120_0713 para el dia #7
+2	1	a	RV: Fallo en insert de Impala de drl.gprs_dual 20191120_0714 para el dia 20191120 en yoigo_gprs-gprs_dual
+3	1	a	RV: Fallo en insert de Impala de emms_cdrs.sms 20191120_0701 para el dia 20191115
+4	1	a	[Unix][Error][Shell script] informe_video_optimizacion_Lista5000
+5	6	a	RV: Refresh failed: CEM Móvil - Empresas has failed to refresh
+6	1	a	RV: Fallo en insert de Impala de emms_cdrs.roaming_out_total 20191120_0713 para el dia 20191119
+7	1	a	RV: Fallo en insert de Impala de emms_cdrs.roaming_out 20191120_0713 para el dia 20191119
+8	1	a	RV: Fallo en insert de Impala de emms_cdrs.sms 20191120_0701 para el dia 20191113
+9	1	a	RV: Fallo en insert de Impala de emms_cdrs.sms 20191120_0701 para el dia 20191111
+10	1	a	[Unix][Error][Shell script] informe_video_optimizacion_Lista5K_Control
+11	12	a	RV: QoE Error: desp_actualizar_daily_cell_traffic.py-ERROR process finished abnormally
+12	1	a	[Unix][Error][Shell script] informe_video_optimizacion_Lista_LL_MM_5000_ref
+13	1	a	[Unix][Error][Shell script] informe_video_optimizacion_Lista5000_ref
+14	1	a	[PWC][Retraso][Informe] A001_ALTOS_CONSUMOS_POS_TRADICIONAL
+15	1	a	[PWC][Retraso][Informe] A002_ALTOS_CONSUMOS_ANTIGUOS_POS_TRADICIONAL
+16	1	a	[PWC][Retraso][Informe] V003_Ventas_Seguimiento_venta_detalle
+17	2	a	Error proceso wf_BIGDATA_EMMS_ORG_GPRS_MMS
+18	1	a	Error proceso wf_MM_V010_Ventas_Seguimiento_Negocios_SVA
+19	1	a	Error proceso wf_MM_V003_Ventas_Seguimiento_v3
+20	1	a	[PWC][Retraso][Informe] ALTOS_CONSUMOS_UNION
+21	1	a	[PWC][Retraso][Informe] A002_ALTOS_CONSUMOS_ANTIGUOS_POS_CONVERGENTE
+22	3	a	RV: (*****) Informe MantenimientoDeRed ERROR
+23	1	a	[PWC][Retraso][Informe] A006_LIMITE_CONSUMO
+24	1	a	[PWC][Retraso][Informe] A001_ALTOS_CONSUMOS_POS_CONVERGENTE
+25	3	a	RV: (*****) Importar datos CC_MARKTEL_TRAZA No procesada
+26	1	a	Error proceso wf_MM_V003_Ventas_Seguimiento_v3
+27	2	a	Error proceso wf_BIGDATA_EMMS_ORG_GPRS_MMS
+28	3	a	RV: (*****) Informe MantenimientoDeRed ERROR
+29	2	a	Error proceso wf_BIGDATA_EMMS_ORG_GPRS_MMS
+30	6	a	RV: Refresh failed: OP_Cobertura_Azure has failed to refresh
+31	1	a	NO SE HA GENERADO EL TAR.GZ PARA drl.gprs_dual 20191120_0215
+32	1	a	NO SE HA GENERADO EL TAR.GZ PARA drl.gprs_dual 20191120_0215
+33	1	a	[PWC] Workflow parado: process._wf_Lanzadera_Clonados_BIGDATA
+34	2	a	Error proceso wf_INTERBOX_Entradas_Manuales
+35	2	a	Error proceso wf_SEGUROS_TELEVENTA
+36	2	a	Revision Centinelas de PWC
+37	2	a	Error proceso wf_ICX_Update_Translators
+38	2	a	Modificación del proceso tms.wf_TMS_CC_Offer_Item
+39	2	a	No ha llegado el fichero GMM_IFS_INVOICES_2019-11-19.DAT
+40	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_f_events_line.
+41	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_f_events_line.
+42	2	a	Error proceso wf_ICX_completed
+43	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_care_dm_cc_f_calls_lbr_line.
+44	2	a	Error proceso wf_Load_GMM_VOSS_EVENTOS_RAAS
+45	3	a	RV: (*****) Informe diario de NEBA ERROR
+46	2	a	Error proceso wf_BIGDATA_ONLINE_DWH_TME_INT_M
+47	1	a	Revisar Proceso Clonado ROVE (Algunos ficheros no se reprocesan o se hace tarde)
+48	2	a	Error proceso wf_OPER_STG
+49	4	a	Incorporar Centinelas (Eventos en BO) en Informes Pedidos Yoigo/Renuevo
+50	12	a	RV: QoE Error: KPI morning upload.py-ERROR process finished abnormally
+51	3	a	Nuevo desarrollo > Clonar tabla de jira cwd_membership a sql y posteriormente activar clonado a Hadoop
+52	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_logistics_status.
+53	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ges_dwh_location_gescal12.
+54	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla LLAMAYA_mmphase2rep_dbo_user_clis.
+55	2	a	Error proceso wf_ICX_Update_Translators
+56	3	a	RV: (*****) Ficheros CC No procesados [SQLPBI]
+57	3	a	RV: (*****) Informe MantenimientoDeRed ERROR
+58	2	a	Alarm file alarma_wf_oper_***** just appeared on /srv/sftp/dwsftp/data/faudit
+59	2	a	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/ficheros_cargas_dwh.sh"" has finished with return code 1 (NOTIF)."
+60	2	a	[PWC] Workflow parado: interface.wf_IFZ_DIRECT_CHANNEL_ROUTER_INTERBOX
+61	2	a	Error proceso wf_EMMS_voice_ICX_all_auto
+62	2	a	Error proceso wf_EMMS_voice_ICX_all_auto
+63	2	a	Error proceso wf_EMMS_voice_ICX_all_auto
+64	2	a	Revision Centinelas de PWC
+65	2	a	Error proceso wf_EMMS_voice_ICX_all_auto
+66	2	a	Error proceso wf_EMMS_ROAMING_OUT_and_IN
+67	2	a	Error proceso wf_EMMS_voice_ICX_all_auto
+68	6	a	RV: Refresh failed: PR_Provision_FTTH has failed to refresh
+69	2	a	Control de errores tms/wf_TMS_CC_Logistic_Operator
+70	2	a	Error proceso wf_EMMS_voice_ICX_all_auto
+71	2	a	Error proceso wf_BIGDATA_ONLINE_DWH_TME_INT_M
+72	2	a	No ha llegado el fichero TME.INT.M.* del proceso BIGDATA_emms.wf_BIGDATA_ONLINE_DWH_TME_INT_M
+73	1	a	Revisión Cargas Ficheros MIO 4.0 en hadoop (SMSC.POS.S. y SMSC.SMT.S.. )
+74	2	a	Error proceso wf_EMMS_GPRS_all_auto
+75	2	a	Error proceso wf_EMMS_voice_ICX_all_auto
+76	3	a	RV: (*****) Informe MantenimientoDeRed ERROR
+77	3	a	RV: (*****) NO se ha generado el informe RA009_Movimientos_Tarifa_MM
+78	1	a	Error en generación de informe diario de Averías sábado 16
+79	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ges_dummy_gescal.
+80	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_invoices_recollection_trans.
+81	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_marcas_dwh.
+82	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_dwh_dwh_account.
+83	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ges_postalcode_gescal.
+84	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_kpi_kpis_pv_agentes.
+85	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_dwh_dwh_fees.
+86	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ges_dwh_feasibilities_gescal17.
+87	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ods_mm_ms_business_customer.
+88	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_pepe_lineas_tarifas.
+89	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_orders_telefonica_fusion.
+90	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_logistic_operator.
+91	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ods_mm_mobile_number.
+92	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_dwh_dwh_customer.
+93	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_kpi_kpis_pv_clientes.
+94	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_msisdn_free.
+95	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_dwh_dwh_fees_account.
+96	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_wo_wo_status_hist.
+97	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_wo_wo_services_det.
+98	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_x_mnp_status.
+99	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ges_dwh_feasibilities_gescal37.
+100	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_dwh_dwh_subscription.
+101	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_kpi_kpis_historico_datos.
+102	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_kpi_kpis_pv_msisdn.
+103	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_mnp_provider.
+104	2	a	Error proceso wf_mdtel_SEGMENTOS
+105	2	a	Error proceso wf_mdtel_IVR_NODOS
+106	2	a	Error proceso wf_mdtel_LLAMADAS
+107	2	a	Solicitud reproceso interfaces para carga de información en IFS. Comisiones altas, incidence_change_date: 15 de Noviembre
+108	2	a	Solicitud reproceso interfaces para carga de información en IFS. Comisiones altas, incidence_change_date: 14 de Noviembre
+109	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_dwh_dwh_facturas.
+110	1	a	Error proceso wf_Load_GMM_VOSS_EVENTOS_RAAS
+111	2	a	Error proceso wf_Portability_NRN
+112	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_pepe_servicios_tarifas.
+113	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_discount_plan_member.
+114	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_dwh_dwh_invoicemovment.
+115	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_pepe_consumo_voz_msisdn.
+116	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_wo_wo.
+117	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_offers_renewal_query.
+118	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_vista_codifications.
+119	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ods_xt_mnet_pv_transacciones_alta_portabilidad.
+120	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ods_mm_mobile_operator.
+121	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_campaign.
+122	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_x_province.
+123	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla cdrs_tac_codes.
+124	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_pepe_portabilidades_entrantes.
+125	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_pepe_portabilidades_entrantes.
+126	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_wo_v_territory_owner.
+127	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla LLAMAYA_mmphase2rep_dbo_subscriber_cdrs.
+128	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ods_mm_msba_account_bundle_cfg.
+129	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ods_mm_msba_fixed_subscription.
+130	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_kpi_kpis_historico_descuentos.
+131	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_dwh_dwh_subscription_terminal.
+132	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_dwh_dwh_historicalchangesimcard.
+133	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_event_type.
+134	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla LLAMAYA_mmphase2rep_dbo_subscribers.
+135	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_portability.
+136	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_embou_clientes_tecnologias_relaciones.
+137	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_wo_wo_service_adsl.
+138	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_wo_wo_service_portability.
+139	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_customers_category_hist.
+140	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_logistics_status.
+141	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_kpi_kpis_historico_facturacion.
+142	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_jira_main_data_co_v2.
+143	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_kpi_kpis_pv_msisdn_bajas_recicladas.
+144	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_wo_ws_operations.
+145	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_network_topup.
+146	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla LLAMAYA_mmphase2rep_dbo_cca_msg_cdrs.
+147	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla LLAMAYA_mmphase2rep_dbo_users_general.
+148	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_sale_channel.
+149	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla LLAMAYA_mmphase2rep_dbo_cca_data_cdrs.
+150	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla commissys_datosdevolucion.
+151	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_ifs_direct_channel.
+152	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_orders_hist.
+153	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_wo_wo_service_ftth.
+154	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_jira_customfield_data_co_v2.
+155	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ods_mm_msba_account_bundle.
+156	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_subscription_line.
+157	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_wo_wo_service.
+158	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_tariff.
+159	3	a	No ha llegado el fichero Traza_MARKTEL_20191118.csv
+160	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ods_xt_mnet_pv_transacciones_alta_portabilidad.
+161	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_permanence.
+162	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla customer_care_ordercustomer.
+163	2	a	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+164	2	a	Error proceso wf_MM_ALTOS_CONSUMOS_UNION
+165	3	a	Realizar carga Lista Robinson
+166	3	a	RV: (*****) Importar datos GESCALES - FIN DE SEMANA No procesada [SQLPBI]
+167	6	a	RV: Refresh failed: OP_MantenimientoDeRed.Ext.2 has failed to refresh
+168	1	a	Error proceso wf_MM_V010_Ventas_Seguimiento_Negocios_SVA
+169	6	a	RV: Refresh failed: OP_MantenimientoDeRed has failed to refresh
+170	6	a	RV: Refresh failed: OP_MantenimientoDeRed has failed to refresh
+171	3	a	RV: (*****) Ficheros CC No procesados [SQLPBI]
+172	2	a	Error proceso wf_CUSTCARE_STG_NEW
+173	2	a	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/ficheros_cargas_dwh.sh"" has finished with return code 1 (NOTIF)."
+174	2	a	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+175	2	a	Error proceso wf_mdtel_CLI_VDN
+176	2	a	Error proceso wf_CUSTCARE_STG_NEW
+177	2	a	Error proceso wf_CUSTCARE_COMPLETED_DAILY_LINE
+178	2	a	Error proceso wf_TMS_CC_Services
+179	2	a	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+180	4	a	PROBLEM: fblbo: Disk usage above warning threshold on file system mounted on /backup (NOTIF).
+181	1	a	[PWC] Workflow parado: process._wf_Lanzadera_Clonados_BIGDATA
+182	2	a	Revision Centinelas de PWC
+183	2	a	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/fichero_fauditoria_2409.sh"" has finished with return code 1 (NOTIF)."
+184	2	a	Error proceso wf_Q25_TerminalReturn_A_Dom
+185	2	a	Revisar modelos de customer_care por fallo en calltip_mosaico
+186	2	a	Error proceso wf_ANOVO_ROUTERS
+187	6	a	RV: Refresh failed: OP_MantenimientoDeRed.Ext.2 has failed to refresh
+188	3	a	RV: (*****) Ficheros CC No procesados [SQLPBI]
+189	6	a	RV: Refresh failed: OP_MantenimientoDeRed has failed to refresh
+190	2	a	Error proceso wf_mdtel_CLI_VDN
+191	2	a	Error proceso wf_mdtel_SEGMENTOS
+192	2	a	Error proceso wf_CUSTCARE_COMPLETED_DAILY_LINE
+193	2	a	Error proceso wf_CUSTCARE_STG_NEW
+194	3	a	RV: (*****) Carga WO No procesado
+195	6	a	RV: Refresh failed: OP_Cobertura_Azure has failed to refresh
+196	3	a	RV: (*****) Carga BI (P_Almacenado) No procesada correctamente [SQLPBI]
+197	2	a	Error proceso wf_BANK_SEPA_DEVOLUCIONES_BSCH
+198	1	a	Error proceso wf_Load_GMM_VOSS_EVENTOS_RAAS
+199	2	a	Error proceso wf_Asnef_Gestion_Errores
+200	2	a	Error proceso wf_emissions_load_source_table
+201	2	a	Error proceso wf_EMMS_process
+202	2	a	Error proceso wf_EMMS_ONLINE_YOIGO_VOICE
+203	2	a	Error proceso wf_BANK_SEPA_DEVOLUCIONES_BSCH
+204	2	a	Error proceso wf_ICX_Update_Translators
+205	2	a	Error proceso wf_EMMS_ROAMING_OUT_and_IN
+206	2	a	"PROBLEM: Wrapper script ""/usr/local/bin/snmp/scripts/ficheros_cargas_dwh.sh"" has finished with return code 1 (NOTIF)."
+207	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_wo_wo_service_adsl.
+208	2	a	Desactivación flujos de GDPR
+209	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_pepe_lineas_estados_negocio.
+210	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_pepe_convergentes_servicios.
+211	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_pepe_portabilidades_salientes.
+212	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ods_xt_mlog_inf_mvno_portabilidades_nodo.
+213	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_dwh_dwh_subscription.
+214	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ods_mm_msba_fixed_subscription.
+215	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ods_mm_msba_subscription_account_bundle.
+216	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ges_dummy_gescal.
+217	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_f_events_line.
+218	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_ods_mm_msba_installation_user.
+219	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_f_prepaid_billing_line.
+220	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla bi_cust_operation_dm_oper_f_events_line.
+221	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_wo_ws_operations.
+222	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla jimenezr_orders_more_doc.
+223	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_kpi_kpis_clientes_productos_aux.
+224	1	a	RV: [ REPORTING DIRECCION ] Error de clonado en la tabla dwh_wo_v_territory_owner.
+225	1	a	Tabla vacía Impala.advanced_analytics.customer_care_orders
